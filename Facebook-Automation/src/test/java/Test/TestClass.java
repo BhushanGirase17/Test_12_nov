@@ -23,6 +23,8 @@ System.setProperty("webdriver.chrome.driver", "D:\\Testing Classes\\Automation\\
 	  driver.get("https://www.facebook.com/");
 	  
 	  driver.manage().window().maximize();
+	  
+	  System.out.println("practise for git");
 
 	  Loginpage loginpage = new Loginpage(driver);
 	  loginpage.sendusername();
@@ -37,6 +39,8 @@ System.setProperty("webdriver.chrome.driver", "D:\\Testing Classes\\Automation\\
 	
 	
 	
+	  
+	  
 	
 	}
 	
