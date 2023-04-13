@@ -25,6 +25,10 @@ System.setProperty("webdriver.chrome.driver", "D:\\Testing Classes\\Automation\\
 	  driver.manage().window().maximize();
 	  
 	  System.out.println("practise for git");
+		 System.out.println("practise for git");
+		 System.out.println("practise for git");
+		 System.out.println("practise for git");
+		
 
 	  Loginpage loginpage = new Loginpage(driver);
 	  loginpage.sendusername();
